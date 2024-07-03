@@ -41,7 +41,7 @@ except:
     system('pip install datetime')
     from datetime import datetime
 
-token = "6626740246:AAHI-NJLGHeyvgaJeEvoFj7fHdti65xm0FI" #توكنك
+token = "6688042392:AAHCEQ1s1BUms3vxFhgo9-jf7Vsl30qI9N0" #توكنك
 chat_id = "1958060577" #ايديك
 
 bot = TeleBot(token=token)
